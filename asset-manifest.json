@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5053318c.css",
+    "main.js": "./static/js/main.01112ec5.js",
+    "static/js/904.52f55898.chunk.js": "./static/js/904.52f55898.chunk.js",
+    "static/js/96.c901275e.chunk.js": "./static/js/96.c901275e.chunk.js",
+    "static/js/777.eebcc647.chunk.js": "./static/js/777.eebcc647.chunk.js",
+    "static/js/926.2e169459.chunk.js": "./static/js/926.2e169459.chunk.js",
+    "static/js/7.f7dec95c.chunk.js": "./static/js/7.f7dec95c.chunk.js",
+    "static/js/569.fc9d68ab.chunk.js": "./static/js/569.fc9d68ab.chunk.js",
+    "static/js/88.8d926032.chunk.js": "./static/js/88.8d926032.chunk.js",
+    "static/js/990.1fe6e6f2.chunk.js": "./static/js/990.1fe6e6f2.chunk.js",
+    "static/js/114.cdaf2607.chunk.js": "./static/js/114.cdaf2607.chunk.js",
+    "static/js/815.fccb6b91.chunk.js": "./static/js/815.fccb6b91.chunk.js",
+    "static/js/453.952b64a3.chunk.js": "./static/js/453.952b64a3.chunk.js",
+    "static/media/attractive-caucasian-blonde-female-white-shirt-posing-brown.jpg": "./static/media/attractive-caucasian-blonde-female-white-shirt-posing-brown.442af79c532ae4fce10a.jpg",
+    "static/media/black-white-portrait-beautiful-woman-posing-indoors-chair.jpg": "./static/media/black-white-portrait-beautiful-woman-posing-indoors-chair.2e7f37a1496af94f42c1.jpg",
+    "static/media/business-woman-phone.jpg": "./static/media/business-woman-phone.927904f3603de7e18d02.jpg",
+    "static/media/fashion-designer-is-working-project.jpg": "./static/media/fashion-designer-is-working-project.05e13ab85fe06659221f.jpg",
+    "static/media/brunette-girl-sitting-cafe-with-cup-cappuccino-working-with-red-laptop-looking-mobile-phone.jpg": "./static/media/brunette-girl-sitting-cafe-with-cup-cappuccino-working-with-red-laptop-looking-mobile-phone.d0d6b4a98fc7fcdd3759.jpg",
+    "index.html": "./index.html",
+    "main.5053318c.css.map": "./static/css/main.5053318c.css.map",
+    "main.01112ec5.js.map": "./static/js/main.01112ec5.js.map",
+    "904.52f55898.chunk.js.map": "./static/js/904.52f55898.chunk.js.map",
+    "96.c901275e.chunk.js.map": "./static/js/96.c901275e.chunk.js.map",
+    "777.eebcc647.chunk.js.map": "./static/js/777.eebcc647.chunk.js.map",
+    "926.2e169459.chunk.js.map": "./static/js/926.2e169459.chunk.js.map",
+    "7.f7dec95c.chunk.js.map": "./static/js/7.f7dec95c.chunk.js.map",
+    "569.fc9d68ab.chunk.js.map": "./static/js/569.fc9d68ab.chunk.js.map",
+    "88.8d926032.chunk.js.map": "./static/js/88.8d926032.chunk.js.map",
+    "990.1fe6e6f2.chunk.js.map": "./static/js/990.1fe6e6f2.chunk.js.map",
+    "114.cdaf2607.chunk.js.map": "./static/js/114.cdaf2607.chunk.js.map",
+    "815.fccb6b91.chunk.js.map": "./static/js/815.fccb6b91.chunk.js.map",
+    "453.952b64a3.chunk.js.map": "./static/js/453.952b64a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5053318c.css",
+    "static/js/main.01112ec5.js"
+  ]
+}
